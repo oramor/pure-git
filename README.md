@@ -10,7 +10,7 @@ git remote add origin git@github.com:oramor/pure-git.git
 git push -u origin master
 ```
 
-# Branch publishing
+# Local branch publishing
 ```
 git push -u origin <local branch name>
 ```
